@@ -1,0 +1,48 @@
+body{
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 30px;
+    color: #828297;
+}
+.thankyou{
+    padding: 60px 0;
+}
+a {
+    text-decoration: none;
+}
+h1, h2{
+    color: black;
+    font-weight: 600;
+}
+h1{
+    font-size: 48px;
+}
+h2{
+    font-size: 35px;
+}
+.card{
+    padding: 50px 30px;
+    height: 100%;
+}
+.bttn {
+    font-size: 15px;
+    padding: 14px 40px;
+    box-shadow: 1px 1px 8px 2px rgba(0, 0, 0, .2);
+    border-radius: 6px;
+    background: var(--Primary, #060640);
+    color: white;
+}
+ul{
+    padding-top: 30px;
+    gap: 22px;
+}
+a{
+    color: #828297;
+}
+ .fa-brands{
+    border: 2px solid  #828297;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+   padding-top: 10px;
+}
